@@ -1,0 +1,29 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/**/__pycache__/
+*.pyc
+
+# Node
+node_modules/
+**/node_modules/
+
+# React
+frontend/build/
+
+# Environment variables
+.env
+.env.*
+backend/.env
+frontend/.env
+
+# Uploaded resumes
+backend/uploads/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
